@@ -4,6 +4,7 @@ emoji: "🔼"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Amplify", "AWS", "Web"]
 published: true
+publication_name: "mierune"
 ---
 
 Amplify Hosting v2 で SvelteKit を使った SSR アプリケーションをホスティングしているときに、プロジェクト作成のタイミングで「SSR アプリケーションログを有効にする」のチェックを入れていなかった関係でアプリケーションのログが一切CloudWatch Logsに記録されて居らず、500エラーが発生した場合などに原因特定が出来なくなっていました

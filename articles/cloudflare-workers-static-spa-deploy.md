@@ -11,7 +11,7 @@ SPA アプリケーションをデプロイするのにずっと、Cloudflare Pa
 移行ドキュメントがかなりわかりやすいのであまり困ることはないかもしれませんが、新たにプロジェクトを作成してデプロイする術を残しておきます。
 よく利用されるフレームワークはフレームワークのガイドに書かれていたりしますのでそちらをご確認ください！
 
-https://developers.cloudflare.com/workers/static-assets/migrations/migrate-from-pages/
+https://developers.cloudflare.com/workers/static-assets/migration-guides/migrate-from-pages/
 
 ## 手順
 サンプル的なプロジェクトを作成してありますので、コードをご覧になりたいかたはこちらからどうぞ！

@@ -25,7 +25,7 @@ Cloudflare Workers では Binding を用いて、ブラウザなどではAPIを�
 
 特に Workers 上ではフラグ評価が極めて低レイテンシで利用できるため、Workers 向けに最適化された Feature Flag だと考えることができます。
 
-詳細は Agent Week に公開された Cloudflare 公式のブログをご覧ください。
+詳細は Agents Week に公開された Cloudflare 公式のブログをご覧ください。
 
 https://blog.cloudflare.com/ja-jp/flagship/
 
